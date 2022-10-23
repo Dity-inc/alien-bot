@@ -2,7 +2,7 @@
   {
     "name": "a",
     "groupId": "120363047465686730@g.us",
-    "x9": false,
+    "x9": true,
     "antiimg": false,
     "antivideo": false,
     "antiaudio": false,
@@ -10,11 +10,11 @@
     "antidoc": false,
     "antictt": false,
     "antiloc": false,
-    "antilinkgp": false,
-    "antilinkhard": false,
-    "antifake": false,
-    "antispam": false,
-    "antinotas": false,
+    "antilinkgp": true,
+    "antilinkhard": true,
+    "antifake": true,
+    "antispam": true,
+    "antinotas": true,
     "anticatalogo": false,
     "antiporn": false,
     "listanegra": [],
@@ -36,8 +36,8 @@
     },
     "wellcome": [
       {
-        "bemvindo1": false,
-        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "bemvindo1": true,
+        "legendabv": "#nomedogp# 𝐫𝐞𝐜𝐞𝐛𝐞 𝐜𝐨𝐦 𝐢𝐦𝐞𝐧𝐬𝐚 𝐚𝐥𝐞𝐠𝐫𝐢𝐚: #numerodele#\n\n𝐁𝐞𝐦-𝐕𝐢𝐧𝐝𝐨(𝐚), 𝐬𝐢𝐧𝐭𝐚-𝐬𝐞 𝐞𝐦 𝐜𝐚𝐬𝐚\n\n★ 𝐏𝐚𝐫𝐚 𝐮𝐬𝐚𝐫 𝐧𝐨𝐬𝐬𝐚 𝐈𝐧𝐭𝐞𝐥𝐢𝐠𝐞𝐧𝐜𝐢𝐚 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐮𝐬𝐞 𝐨 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 \"/𝐦𝐞𝐧𝐮\";\n\n☆ 𝐋𝐞𝐢𝐚 𝐚 𝐝𝐞𝐬𝐜𝐫𝐢ç𝐚𝐨 𝐝𝐨 𝐠𝐫𝐮𝐩𝐨 𝐩𝐚𝐫𝐚 𝐮𝐦𝐚 𝐛𝐨𝐚 𝐯𝐢𝐯𝐞𝐧𝐜𝐢𝐚 𝐞𝐧𝐭𝐫𝐞 𝐭𝐨𝐝𝐨𝐬;\n\n★ 𝐀𝐩𝐫𝐨𝐯𝐞𝐢𝐭𝐞 𝐨 𝐠𝐫𝐮𝐩𝐨 ツ",
         "legendasaiu": 0
       },
       {
@@ -47,10 +47,10 @@
       }
     ],
     "simi1": false,
-    "simi2": false,
-    "autosticker": false,
-    "autoresposta": false,
-    "jogos": false,
+    "simi2": true,
+    "autosticker": true,
+    "autoresposta": true,
+    "jogos": true,
     "level": true,
     "bangp": false,
     "nsfw": false
