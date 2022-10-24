@@ -10,13 +10,13 @@
       },
       {
         "id": "559291618029@s.whatsapp.net",
-        "messages": 258,
-        "cmd_messages": 153,
+        "messages": 383,
+        "cmd_messages": 227,
         "aparelho": "Android ツ"
       },
       {
         "id": "559285433210@s.whatsapp.net",
-        "messages": 2,
+        "messages": 5,
         "cmd_messages": 0,
         "aparelho": "Android ツ"
       },
@@ -40,7 +40,7 @@
       },
       {
         "id": "5515998604032@s.whatsapp.net",
-        "messages": 10,
+        "messages": 12,
         "cmd_messages": 5,
         "aparelho": "Android ツ"
       },
@@ -52,26 +52,14 @@
       },
       {
         "id": "558896490051@s.whatsapp.net",
-        "messages": 16,
-        "cmd_messages": 3,
+        "messages": 31,
+        "cmd_messages": 13,
         "aparelho": "Android ツ"
-      },
-      {
-        "id": "559292596320@s.whatsapp.net",
-        "messages": 1,
-        "cmd_messages": 0,
-        "aparelho": "IPhone ｯ"
       },
       {
         "id": "559294785023@s.whatsapp.net",
-        "messages": 4,
+        "messages": 5,
         "cmd_messages": 3,
-        "aparelho": "Android ツ"
-      },
-      {
-        "id": "557399980655@s.whatsapp.net",
-        "messages": 1,
-        "cmd_messages": 0,
         "aparelho": "Android ツ"
       },
       {
@@ -83,6 +71,96 @@
       {
         "id": "556984160473@s.whatsapp.net",
         "messages": 2,
+        "cmd_messages": 1,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "559784128250@s.whatsapp.net",
+        "messages": 5,
+        "cmd_messages": 2,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "558294295287@s.whatsapp.net",
+        "messages": 15,
+        "cmd_messages": 14,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "553399003263@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "556799404373@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 2,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "558596648093@s.whatsapp.net",
+        "messages": 6,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "554791368075@s.whatsapp.net",
+        "messages": 18,
+        "cmd_messages": 7,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "5528999665804@s.whatsapp.net",
+        "messages": 4,
+        "cmd_messages": 3,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "557388875889@s.whatsapp.net",
+        "messages": 4,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "558381938635@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 1,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "5519991748613@s.whatsapp.net",
+        "messages": 5,
+        "cmd_messages": 3,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "559293386818@s.whatsapp.net",
+        "messages": 7,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "559295363315@s.whatsapp.net",
+        "messages": 4,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "558287940774@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 1,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "557488235783@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "557188221378@s.whatsapp.net",
+        "messages": 1,
         "cmd_messages": 1,
         "aparelho": "Android ツ"
       }
@@ -216,6 +294,334 @@
       {
         "id": "559391875215@s.whatsapp.net",
         "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      }
+    ]
+  },
+  {
+    "groupId": "5511951551718-1626478565@g.us",
+    "numbers": [
+      {
+        "id": "62895419954522@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "WhatsApp web シ"
+      }
+    ]
+  },
+  {
+    "groupId": "553192305989-1551328227@g.us",
+    "numbers": [
+      {
+        "id": "553189221134@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "5511988802581@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      }
+    ]
+  },
+  {
+    "groupId": "120363043285733578@g.us",
+    "numbers": [
+      {
+        "id": "559185227912@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "557599059891@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "558183070612@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      }
+    ]
+  },
+  {
+    "groupId": "120363046157539216@g.us",
+    "numbers": [
+      {
+        "id": "553192179547@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "557398537837@s.whatsapp.net",
+        "messages": 6,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "5521983898014@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "557381839444@s.whatsapp.net",
+        "messages": 4,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "5511997498973@s.whatsapp.net",
+        "messages": 4,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "5516994450497@s.whatsapp.net",
+        "messages": 5,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "556399927286@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      }
+    ]
+  },
+  {
+    "groupId": "120363025859937409@g.us",
+    "numbers": [
+      {
+        "id": "5521978876040@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "554888441228@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "553384234059@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "WhatsApp web シ"
+      }
+    ]
+  },
+  {
+    "groupId": "120363025569273112@g.us",
+    "numbers": [
+      {
+        "id": "557999863256@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "556692443551@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "557181946160@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "558587660057@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      }
+    ]
+  },
+  {
+    "groupId": "120363046060270995@g.us",
+    "numbers": [
+      {
+        "id": "553399003263@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      }
+    ]
+  },
+  {
+    "groupId": "120363043497916512@g.us",
+    "numbers": [
+      {
+        "id": "559185564902@s.whatsapp.net",
+        "messages": 9,
+        "cmd_messages": 0,
+        "aparelho": "WhatsApp web シ"
+      },
+      {
+        "id": "5518996860063@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "15038374036@s.whatsapp.net",
+        "messages": 13,
+        "cmd_messages": 0,
+        "aparelho": "WhatsApp web シ"
+      },
+      {
+        "id": "5515997956926@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      }
+    ]
+  },
+  {
+    "groupId": "5521985426216-1549492434@g.us",
+    "numbers": [
+      {
+        "id": "5517992015231@s.whatsapp.net",
+        "messages": 18,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "5521986540847@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      }
+    ]
+  },
+  {
+    "groupId": "5511970400108-1610930240@g.us",
+    "numbers": [
+      {
+        "id": "5511970400108@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      }
+    ]
+  },
+  {
+    "groupId": "120363046045164294@g.us",
+    "numbers": [
+      {
+        "id": "557191232986@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "WhatsApp web シ"
+      }
+    ]
+  },
+  {
+    "groupId": "554499282315-1603332519@g.us",
+    "numbers": [
+      {
+        "id": "5524999265876@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "553399761577@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "558781608430@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      }
+    ]
+  },
+  {
+    "groupId": "553175126645-1623851078@g.us",
+    "numbers": [
+      {
+        "id": "558185081314@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "556492621370@s.whatsapp.net",
+        "messages": 10,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "558695808215@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "555484338932@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "554988348555@s.whatsapp.net",
+        "messages": 5,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "5524981078492@s.whatsapp.net",
+        "messages": 9,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      }
+    ]
+  },
+  {
+    "groupId": "120363046565453880@g.us",
+    "numbers": [
+      {
+        "id": "557781394053@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "556481180802@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "554399365201@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "5514996523543@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "5513997103991@s.whatsapp.net",
+        "messages": 1,
         "cmd_messages": 0,
         "aparelho": "Android ツ"
       }

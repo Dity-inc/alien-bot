@@ -1486,7 +1486,8 @@
             "td bom?",
             "blz ?",
             "oie bb",
-            "oi nao"
+            "oi nao",
+            "salve"
         ]
     },
     {
@@ -99988,6 +99989,106 @@
     },
     {
         "msg": "brinca c o bot",
+        "messages": []
+    },
+    {
+        "msg": "agr vai",
+        "messages": []
+    },
+    {
+        "msg": "vou hospedar no meu pc",
+        "messages": []
+    },
+    {
+        "msg": "qm sair eh corno",
+        "messages": []
+    },
+    {
+        "msg": "só pra dizer eu tenho depressão",
+        "messages": [
+            "😔✊🏻"
+        ]
+    },
+    {
+        "msg": "ta baguncadao",
+        "messages": []
+    },
+    {
+        "msg": "oiie pessoas",
+        "messages": [
+            "oi"
+        ]
+    },
+    {
+        "msg": "tem mto",
+        "messages": []
+    },
+    {
+        "msg": "inativo",
+        "messages": []
+    },
+    {
+        "msg": "obgd!!!",
+        "messages": []
+    },
+    {
+        "msg": "eu ae",
+        "messages": []
+    },
+    {
+        "msg": "fino",
+        "messages": []
+    },
+    {
+        "msg": "rapeize",
+        "messages": []
+    },
+    {
+        "msg": "sera q e golpe?",
+        "messages": []
+    },
+    {
+        "msg": "arra",
+        "messages": []
+    },
+    {
+        "msg": "bot vai ja da ban",
+        "messages": []
+    },
+    {
+        "msg": "amazonense",
+        "messages": []
+    },
+    {
+        "msg": "isso ficou estranho",
+        "messages": [
+            "simkkk"
+        ]
+    },
+    {
+        "msg": "bem-vindo ae tropa",
+        "messages": []
+    },
+    {
+        "msg": "vcs sabem que ele é um bot, né?",
+        "messages": []
+    },
+    {
+        "msg": "o cara tem a fto do gumball",
+        "messages": [
+            "yes"
+        ]
+    },
+    {
+        "msg": "q maneiro manokkk",
+        "messages": []
+    },
+    {
+        "msg": "qm add 10 pessoa",
+        "messages": []
+    },
+    {
+        "msg": "do adm",
         "messages": []
     }
 ]
